@@ -1,0 +1,33 @@
+# Variables de entorno y secretos
+.env
+.env.*
+!.env.example
+!.env.sample
+
+# Rails
+/backend/log/*
+/backend/tmp/*
+/backend/storage/*
+/backend/.bundle
+/backend/vendor/bundle
+/backend/config/master.key
+/backend/config/credentials/*.key
+
+# Angular y Node
+/frontend/node_modules/
+/frontend/dist/
+/frontend/.angular/
+/frontend/coverage/
+
+# Sistema operativo y editores
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Archivos temporales
+*.log
+*.tmp
+*.log
+*.tmp
+/backend/.kamal/secrets
