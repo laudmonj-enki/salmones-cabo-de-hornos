@@ -1,0 +1,17 @@
+filete:
+  catalog_number: 1
+  name: Producto de ejemplo uno
+  category: salmon_filetes_hon
+  presentation: Presentación de ejemplo
+  unit: kg
+  net_price_clp: 10000
+  active: true
+
+ostra:
+  catalog_number: 2
+  name: Producto de ejemplo dos
+  category: ostras
+  presentation: Caja de ejemplo
+  unit: unidad
+  net_price_clp: 500
+  active: true
